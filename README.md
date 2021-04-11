@@ -4,10 +4,10 @@ https://www.youtube.com/watch?v=zQW1BMKHWoE&ab_channel=CoolooAI
 
 
 <p>
-<img alt="" src="https://raw.githubusercontent.com/12343954/Darknet.YoloV3/main/Doc/run.jpg?token=AANYNY2KA7HYHUSZ3ZCXMC3AOK6OU" width="800" />
+<img alt="" src="./Doc/run.jpg" width="800" />
 </p>
 <p>
-<img alt="" src="https://raw.githubusercontent.com/12343954/Darknet.YoloV3/main/Doc/vs1.jpg?token=AANYNY3FI2GRZEEQVOCRU2LAOK6LA" width="1024" />
+<img alt="" src="./Doc/vs1.jpg" width="1024" />
 </p>
 
 
