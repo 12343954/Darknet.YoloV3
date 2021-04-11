@@ -1,0 +1,6 @@
+classes=11
+train=training\11\voc_custom\train.txt
+val=training\11\voc_custom\val.txt
+names=training\11\voc_custom\coco_custom.names
+backup=training\11\voc_custom\backup
+eval=coco
