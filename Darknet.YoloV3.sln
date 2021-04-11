@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darknet.YoloV3", "Darknet.YoloV3\Darknet.YoloV3.csproj", "{1D4129E8-EC4B-4757-801B-F08249C23412}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D4129E8-EC4B-4757-801B-F08249C23412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D4129E8-EC4B-4757-801B-F08249C23412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D4129E8-EC4B-4757-801B-F08249C23412}.Debug|x64.ActiveCfg = Debug|x64
+		{1D4129E8-EC4B-4757-801B-F08249C23412}.Debug|x64.Build.0 = Debug|x64
+		{1D4129E8-EC4B-4757-801B-F08249C23412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D4129E8-EC4B-4757-801B-F08249C23412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D4129E8-EC4B-4757-801B-F08249C23412}.Release|x64.ActiveCfg = Release|x64
+		{1D4129E8-EC4B-4757-801B-F08249C23412}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5152D39-F75E-403F-B4E0-ECD3E2A9CB0B}
+	EndGlobalSection
+EndGlobal
