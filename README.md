@@ -1,4 +1,4 @@
-[Version 2 is HERE](https://github.com/12343954/Darknet.YoloV3.v2) <sup style="color: red; font-style: italic;">NEW</sup>
+<a href="https://github.com/12343954/Darknet.YoloV3.v2">Version 2 is HERE</a> <sup style="color: red; font-style: italic;">NEW</sup>
  
  # Code in (4 steps) YOLOv3 in C#, Custom dataset, 30+ fps, faster & stable than python | 2020 AI Tech
 
