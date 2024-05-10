@@ -1,4 +1,6 @@
-﻿# Code in (4 steps) YOLOv3 in C#, Custom dataset, 30+ fps, faster & stable than python | 2020 AI Tech
+[New Version 2 is here](https://github.com/12343954/Darknet.YoloV3.v2)
+ 
+ # Code in (4 steps) YOLOv3 in C#, Custom dataset, 30+ fps, faster & stable than python | 2020 AI Tech
 
 https://www.youtube.com/watch?v=zQW1BMKHWoE&ab_channel=CoolooAI
 
