@@ -5,3 +5,5 @@ Darknet.YoloV3/cudnn64_7.dll
 .vs/Darknet.YoloV3/v16/.suo
 Darknet.YoloV3/obj/x64/Debug/Darknet.YoloV3.csprojAssemblyReference.cache
 Darknet.YoloV3/obj/x64/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+bin
+obj
