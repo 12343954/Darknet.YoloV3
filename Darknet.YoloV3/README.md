@@ -2,17 +2,18 @@
 
 https://www.youtube.com/watch?v=zQW1BMKHWoE&ab_channel=CoolooAI
 
+<br>
 
-<p>
 <img alt="" src="https://raw.githubusercontent.com/12343954/Darknet.YoloV3/refs/heads/main/Doc/run.jpg" width="800" />
-</p>
-<p>
-<img alt="" src="https://raw.githubusercontent.com/12343954/Darknet.YoloV3/refs/heads/main/Doc/vs1.jpg" width="1024" />
-</p>
 
-<p>
+<br>
+
+<img alt="" src="https://raw.githubusercontent.com/12343954/Darknet.YoloV3/refs/heads/main/Doc/vs1.jpg" width="1024" />
+
+<br>
+
 <img alt="driver456.71+cuda11.1+nvcc10.2.png" src="https://raw.githubusercontent.com/12343954/Darknet.YOLOv3.V2/refs/heads/main/images/driver456.71%2Bcuda11.1%2Bnvcc10.2.png" width="1024">
-</p>
+
 
 
 <hr><br><br>
